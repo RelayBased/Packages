@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Legendary Baby Birds",
+    "path": "packages/legendary_baby_birds.fkmn",
+    "author": "Jerakin",
+    "description": "Kanto Legendary Baby Birds JOEtheDM.\nArt by ShinArt on YouTube.",
+    "version": 4
+  },
+  {
+    "name": "Test",
+    "path": "packages/Test.fkmn",
+    "author": "RelayBased",
+    "description": "test",
+    "version": 1
+  },
+  {
+    "name": "Red federation",
+    "author": "Junkman",
+    "description": "Aura abilitlies are gifts from Ho-oh. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII. ",
+    "version": 8,
+    "path": "packages/red_federation.fkmn"
+  },
+  {
+    "name": "Poke by Adod",
+    "author": "JuanTipo",
+    "description": "Variant types created by our DM, images to come.",
+    "version": 6,
+    "path": "packages/poke_by_adod.fkmn"
+  },
+  {
+    "name": "Rocaroja",
+    "path": "packages/rocaroja.fkmn",
+    "author": "fearjunkie",
+    "description": "",
+    "version": 2
+  },
+  {
+    "name": "Johto Server",
+    "path": "packages/johto_server.fkmn",
+    "author": "Professor OniLink",
+    "description": "All homebrew from the Johto Server. Aalarian, pre evolution of the legendary birds, beast trio, and sword trio",
+    "version": 12
+  },
+  {
+    "name": "Dragapult Line",
+    "path": "packages/dragapult_line.fkmn",
+    "author": "Danteodon",
+    "description": "Contains only the Dragapult line",
+    "version": 2
+  },
+  {
+    "name": "Ptole Region",
+    "path": "packages/golden_buffdoof.fkmn",
+    "author": "Victini1412",
+    "description": "The Ptole Regional regional varients and other fakemon.",
+    "version": 2
+  },
+  {
+    "name": "The Sloth N Friends' Delta",
+    "path": "packages/the_sloth_n_friends.fkmn",
+    "author": "Sloth The DM",
+    "description": "They are Delta Species, similar but vary in type. Inspiration from Insurgence. Join us, Sloth N Friends on Youtube.",
+    "version": 1
+  },
+  {
+    "name": "Scandinavia",
+    "path": "packages/scandinavian_region.fkmn",
+    "author": "Hope",
+    "description": "Scandinavian (or Hednean) Region inspired by Mr. Buddy on YouTube.",
+    "version": 1
+  },
+  {
+    "name": "Early Legends",
+    "path": "packages/early_legends.fkmn",
+    "author": "Ivoron",
+    "description": "A few Legendary Pokemon changed to be of a lower level.",
+    "version": 1
+  },
+  {
+    "name": "Adican Pokemon",
+    "path": "packages/adican.fkmn",
+    "author": "ThunderTaco",
+    "description": "This is a mix of homebrew and real pokemon in the Adica region. No art is my own.",
+    "version": 2
+  },
+  {
+    "name": "Galar by L_Cypherus",
+    "path": "packages/galar_homebrew.fkmn",
+    "author": "L_Cypherus",
+    "description": "Sizzlipede & Centiskorch.",
+    "version": 1
+  },
+  {
+    "name": "Kaskade",
+    "path": "packages/kaskade.fkmn",
+    "author": "Frogdog#3041",
+    "description": "This Pack contains Fakemon to be found in Kaskade! I do not own the art, refer to the pack by LordMediocre for weather.",
+    "version": 1
+  },
+  {
+    "name": "Sendatsu",
+    "path": "packages/sendatsu.fkmn",
+    "author": "MrTumnus",
+    "description": "Sendatsu",
+    "version": 1
+  },
+  {
+    "name": "Piana's Collection",
+    "path": "packages/piana.fkmn",
+    "author": "Piana",
+    "description": "This is a serie of nice critters. Credits for all of the artworks goes too Viiperfish and Doodlelotl on twitter.",
+    "version": 2
+  },
+  {
+    "name": "Gorsvan Pokemon",
+    "path": "packages/gorsvan.fkmn",
+    "author": "TonyBaloney",
+    "description": "A pack that contains all the delta pokemon, along with some fakemon",
+    "version": 4
+  },
+  {
+    "name": "TetsuLegendaries",
+    "path": "packages/tetsu.fkmn",
+    "author": "JAW",
+    "description": "This package contains homebrew legendaries for the Pokemon 5e campaign set in the Tetsu region. I do not own the art.",
+    "version": 1
+  },
+  {
+    "name": "Stratos",
+    "path": "packages/stratos.fkmn",
+    "author": "Steven",
+    "description": "Stratos package",
+    "version": 1
+  }
+]
